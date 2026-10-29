@@ -1,8 +1,9 @@
-<video src="https://github.com/jacoblontoc/Lab-6/raw/main/videos/lab6-demo.mp4" controls width="360"></video>
+
+https://github.com/user-attachments/assets/e0beb8c1-f511-40cd-8060-097105ba94b9
 
 ## Upload and run
 
-Open `task1_blink/task1_blink.ino` or `task2_two_leds/task2_two_leds.ino` in the Arduino IDE, select **Tools → Board → Arduino Uno** and the Uno's COM port, then click **Upload**. No extra libraries are needed.
+Open `task1_blink/task1_blink.ino` or `task2_two_leds/task2_two_leds.ino` in the Arduino IDE, select **Tools → Board → Arduino Uno** and the Uno's COM port, then click **Upload**.
 
 ## Design
 
